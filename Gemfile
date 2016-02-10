@@ -8,7 +8,7 @@ gem 'bcrypt-ruby', '3.1.2'
 
 # Use sqlite3 as the database for Active Record
 group :development do
-  gem 'sqlite3', '1.3.8'
+  gem 'sqlite3'
 end
 
 group :production do
